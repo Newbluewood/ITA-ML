@@ -6,7 +6,7 @@
 
 Model predlaže kategoriju (npr. Mobile Phones, Laptops) na osnovu naziva proizvoda — za online trgovinu sa 30.000+ artikala u `products.csv`.
 
-> **Git repozitorijum** (`ITA-ML`) živi **samo u ovom folderu**. Task 1/2 i planovi su u parent `Kurs 10/` — van gita.
+> **ITA-ML** (ovaj folder): vođeni primer kroz lekcije modula 4 (ML projekat). **Finalni Task 3 (947)** ide u **novi repo** kasnije — link na platformu neće biti ITA-ML. Task 1/2 i `_lokalno/` su van gita.
 
 ## Struktura projekta
 

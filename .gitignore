@@ -8,11 +8,7 @@ __pycache__/
 # Secrets
 .env
 
-# Samo products.csv u repou
-data/*.csv
-!data/products.csv
+# Arhive (CSV u data/ idu u repo za lekcijski projekat)
 data/*.zip
-
-# Arhive
 *.zip
 *.rar

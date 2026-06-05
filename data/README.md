@@ -1,25 +1,12 @@
-# Podaci — Task 3
-
-## Obavezno za GitHub predaju
+# Podaci — ITA-ML (lekcije 12–19)
 
 | Fajl | Uloga |
 |------|--------|
-| `products.csv` | 30.000+ proizvoda — treniranje modela (PDF zahteva da bude u repou) |
+| `IMLP4_13-product_reviews_full.csv` | Glavni skup za vođeni ML projekat (sentiment / recenzije, lekcije modula 4) |
 
-## Preuzimanje
+## Task 3 (947) — kasniji repo
 
+`products.csv` za predikciju kategorije po naslovu — u **novom** repozitorijumu, ne ovde.
+
+Preuzimanje products.csv:  
 https://www.link-elearning.com/linkdl/coursefiles/1956/IMLP4_TASK_03-products.csv
-
-Sačuvaj kao `data/products.csv`.
-
-## Kolone
-
-- **Product ID** — identifikator  
-- **Product Title** — ulaz modelu (tekst)  
-- **Merchant ID** — prodavac  
-- **Category Label** — ciljna klasa (npr. Mobile Phones, Laptops)  
-- **Product Code**, **Number of Views**, **Merchant Rating**, **Listing Date** — za EDA / feature engineering
-
-## Lokalno (ne commitovati)
-
-Ostali CSV iz lekcija (`messages.csv`, `reviews_*.csv`, …) drži samo na računaru — nisu deo Task 3 repoa.

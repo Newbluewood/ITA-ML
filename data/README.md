@@ -1,10 +1,10 @@
 # Podaci — ITA-ML (lekcije 12–19)
 
-| Fajl | Uloga |
-|------|--------|
+| Fajl                                | Uloga                                                                       |
+| ----------------------------------- | --------------------------------------------------------------------------- |
 | `IMLP4_13-product_reviews_full.csv` | Glavni skup za vođeni ML projekat (sentiment / recenzije, lekcije modula 4) |
 
-## Task 3 (947) — kasniji repo
+## Preuzimanje dataseta
 
 `products.csv` za predikciju kategorije po naslovu — u **novom** repozitorijumu, ne ovde.
 

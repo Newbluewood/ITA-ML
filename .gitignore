@@ -8,6 +8,10 @@ __pycache__/
 # Secrets
 .env
 
+# Model (generiše train_model.py — ne na GitHub)
+*.pkl
+model/*.pkl
+
 # Arhive (CSV u data/ idu u repo za lekcijski projekat)
 data/*.zip
 *.zip

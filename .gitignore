@@ -1,0 +1,18 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+# Samo products.csv u repou
+data/*.csv
+!data/products.csv
+data/*.zip
+
+# Arhive
+*.zip
+*.rar
